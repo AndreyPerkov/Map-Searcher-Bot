@@ -52,7 +52,56 @@
       "address":"103.62.48.4",
       "port":27068,
       "url":"https://www.notkoen.xyz/fastdl/csgo/maps/"
+     },
+
+      {
+      "name":"Zombieden #1",
+      "address":"43.248.188.14",
+      "port":27050,
+      "url":""
      }
+
+      {
+      "name":"Zombieden #2",
+      "address":"43.248.188.141",
+      "port":27051,
+      "url":""
+     }
+      
+      {
+      "name":"Zombieden #3",
+      "address":"203.135.101.249",
+      "port":27055,
+      "url":""
+     }
+
+      {
+      "name":"Zombieden #4",
+      "address":"43.248.188.14",
+      "port":27050,
+      "url":""
+     }
+
+      {
+      "name":"Zombieden #5",
+      "address":"43.248.184.212",
+      "port":27051,
+      "url":""
+     }
+
+      {
+      "name":"Zombieden #6",
+      "address":"43.248.184.212",
+      "port":27052,
+      "url":""
+     }
+
+      {
+      "name":"Zombieden #7",
+      "address":"203.135.101.249",
+      "port":27056,
+      "url":""
+     },
   ],
    "packs":[
     {
